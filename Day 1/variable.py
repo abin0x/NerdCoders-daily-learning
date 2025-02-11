@@ -9,3 +9,7 @@ print(type(age),type(interset_rate),type(strings),type(is_bool))
 
 # like taht,
 # variable_name=value
+
+
+text=f"Hello World {age}"
+print(text)
