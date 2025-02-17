@@ -14,5 +14,7 @@ class Car:
 
 
 MyCar=Car(20000,"Black",1033)
+herCar=Car(232424,"white",9834535)
 print(MyCar)
+print(herCar)
 MyCar.send_sms(1780942672,"helloe world")
