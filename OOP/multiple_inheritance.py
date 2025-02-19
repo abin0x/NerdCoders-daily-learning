@@ -23,6 +23,9 @@ class Student(Family,School,Sports):
     def display(self):
         print(f"Name: {self.name}\nAge: {self.age}\nAddress: {self.address}\nID: {self.id}\nClass: {self.level}\nGame: {self.game}")
 
-# অবজেক্ট তৈরি
+
 student1 = Student("John Doe", 12, "Dhaka", 101, 7, "Cricket")
 student1.display()
+
+
+# fdjgfg 
