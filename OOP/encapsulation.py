@@ -12,4 +12,8 @@ class Bank:
 
 refasn=Bank("Abin",10000)
 print(refasn.holder_name)
+refasn.holder_name="Abin Hasan"
+print(refasn.holder_name)
+print(refasn._branch)
 print(refasn.get_balance())
+
