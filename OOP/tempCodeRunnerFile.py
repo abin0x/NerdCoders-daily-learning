@@ -1,2 +1,2 @@
-   def speak(self):
-        print(f"{self.name} says: Woof!")
+def make_sound(self):
+        print("Dog is barking ...")
