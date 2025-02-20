@@ -31,3 +31,4 @@ sakib.exercise()
 # Hight: 5.6
 # Weight: 75
 # Runs: 5000
+# Wickets: 200
