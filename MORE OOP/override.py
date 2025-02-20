@@ -29,3 +29,4 @@ sakib.exercise()
 # Name: Sakib
 # Age: 35
 # Hight: 5.6
+# Weight: 75
