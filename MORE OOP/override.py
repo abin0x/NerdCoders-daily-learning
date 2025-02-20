@@ -27,3 +27,4 @@ sakib.eat()
 sakib.exercise()
 # Output:
 # Name: Sakib
+# Age: 35
