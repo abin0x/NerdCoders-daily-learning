@@ -25,3 +25,4 @@ class Circketer(Person):
 sakib=Circketer("Sakib",35,5.6,75,5000,200)
 sakib.eat()
 sakib.exercise()
+# Output:
