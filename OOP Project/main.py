@@ -6,6 +6,8 @@ from users import Employee, Customer, Admin
 from orders import Order 
 mamar_restaurent=Restaurent(name='Mamar Restaurent',location='Kathmandu')
 
+# Memu Items
+
 def customer_menu():
     name=input('Enter Your Name: ')
     phon=input('Enter Your Phone Number: ')
