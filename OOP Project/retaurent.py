@@ -1,5 +1,7 @@
 from menu import Menu
 
+# Restauren 
+
 class Restaurent:
     def __init__(self,name,location):
         self.name = name
