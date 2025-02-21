@@ -22,3 +22,6 @@ class Order:
         total = self.get_total_price
         print(f"Order placed successfully! Total price: {total}")
         self.clear()  # Optionally clear the cart after order is placed
+
+
+# class Employee(User):
