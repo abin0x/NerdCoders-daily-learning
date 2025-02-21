@@ -135,7 +135,7 @@ class FoodItem:
 # add=Admin('Rahim','01700000000','abim@gmail.com','Dhaka')
 # add.add_employee('Karim','karim@gmail.com','01700000001','Dhaka',25,'Manager',50000)
 # add.view_employee()
-
+# ffds
 mamar_desh=Restaurent('Mamar Desh','Dhaka')
 mn=Menu()
 item=FoodItem('Pizza',150,10)
