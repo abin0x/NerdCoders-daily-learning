@@ -23,3 +23,6 @@ class Menu:
         for item in self.items:
             print(f'{item.name}       {item.price}           {item.quntity}')
         print("----------------------------------------------------")
+
+
+# Menu Item Class
